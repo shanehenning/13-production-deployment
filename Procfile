@@ -1,1 +1,1 @@
-web: node server.js
+web: node submissions/shane-gurpreet/server.js
